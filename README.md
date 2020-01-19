@@ -1,2 +1,0 @@
-# ivardor
-Vefsíðan mín
