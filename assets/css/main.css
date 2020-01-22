@@ -447,6 +447,7 @@ input, select, textarea {
 
 		.row > .col-12 {
 			width: 100%;
+            height: 200%;
 		}
 
 		.row > .off-12 {
@@ -2350,7 +2351,6 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
-                height: 25em;
 			}
 
 		.image.main {
@@ -2361,6 +2361,7 @@ input, select, textarea {
 
 			.image.main img {
 				width: 100%;
+                height: 25em;
 			}
 
 			@media screen and (max-width: 736px) {
