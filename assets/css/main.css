@@ -2883,7 +2883,7 @@ input, select, textarea {
 
 				#header nav ul li {
 					display: block;
-					padding: 0;
+					padding: 1;
 				}
 
 					#header nav ul li a {
